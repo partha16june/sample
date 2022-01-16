@@ -38,6 +38,9 @@ System.out.println("chennai");
 	a.empEmail();
 	a.empAdress();
 	
+	System.out.println("push the hero");
+
 	System.out.println("push the mass");
+
 }
 }
